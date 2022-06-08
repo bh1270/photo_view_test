@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   photo_preview:
-      git:
+     git:
       url: https://gitee.com/zengxiangxi315/photo_preview_flutter.git
       ref: flutter-2.x-nullsafe
 
