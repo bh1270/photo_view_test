@@ -241,7 +241,7 @@ packages:
     source: hosted
     version: "2.0.7"
   photo_preview:
-    dependency: "direct main"
+    dependency: transitive
     description:
       path: "."
       ref: "flutter-2.x-nullsafe"

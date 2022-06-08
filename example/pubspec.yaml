@@ -29,10 +29,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  photo_preview:
-    git:
-      url: https://gitee.com/zengxiangxi315/photo_preview_flutter.git
-      ref: flutter-2.x-nullsafe
+
 
 
 dev_dependencies:

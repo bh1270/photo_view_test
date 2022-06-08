@@ -30,7 +30,7 @@ packages:
     source: hosted
     version: "1.3.1"
   chewie:
-    dependency: "direct dev"
+    dependency: transitive
     description:
       name: chewie
       url: "https://pub.flutter-io.cn"
@@ -72,7 +72,7 @@ packages:
     source: hosted
     version: "1.0.5"
   extended_image:
-    dependency: "direct dev"
+    dependency: transitive
     description:
       name: extended_image
       url: "https://pub.flutter-io.cn"
@@ -199,7 +199,7 @@ packages:
     source: hosted
     version: "1.8.0"
   path_provider:
-    dependency: "direct dev"
+    dependency: transitive
     description:
       name: path_provider
       url: "https://pub.flutter-io.cn"
@@ -247,6 +247,15 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "2.0.7"
+  photo_preview:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "flutter-2.x-nullsafe"
+      resolved-ref: b8d511f1a6bd7df5f4f51c50ca80f82f86d27153
+      url: "https://gitee.com/zengxiangxi315/photo_preview_flutter.git"
+    source: git
+    version: "1.0.0"
   platform:
     dependency: transitive
     description:
@@ -330,7 +339,7 @@ packages:
     source: hosted
     version: "1.3.0"
   uuid:
-    dependency: "direct dev"
+    dependency: transitive
     description:
       name: uuid
       url: "https://pub.flutter-io.cn"
@@ -344,7 +353,7 @@ packages:
     source: hosted
     version: "2.1.1"
   video_player:
-    dependency: "direct dev"
+    dependency: transitive
     description:
       name: video_player
       url: "https://pub.flutter-io.cn"
@@ -379,7 +388,7 @@ packages:
     source: hosted
     version: "2.0.10"
   wakelock:
-    dependency: "direct dev"
+    dependency: transitive
     description:
       name: wakelock
       url: "https://pub.flutter-io.cn"
